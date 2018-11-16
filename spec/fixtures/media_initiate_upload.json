@@ -1,0 +1,6 @@
+{
+  "upload": {
+    "id": 2890,
+    "url": "https://instructure-signal-bogus.s3.amazonaws.com/public_api_v1/43-2890?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=aws_key%2F20181102%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=bogus&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=bogus"
+  }
+}
